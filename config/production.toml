@@ -1,6 +1,6 @@
 num_workers = 0
 port = 8080
-rpc_node = 'https://api.steemit.com'
+rpc_node = 'http://haproxy:8080'
 [[log]]
 level = 'info'
 out = 'stdout'
