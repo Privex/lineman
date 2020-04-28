@@ -1,4 +1,4 @@
-rpc_node = 'https://api.steemit.com'
+rpc_node = 'https://hived.privex.io'
 [[log]]
 level = 'fatal'
 out = 'stdout'

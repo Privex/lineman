@@ -10,7 +10,7 @@ name = 'lineman'
 num_workers = 1
 
 # http(s) steem rpc node where rpc calls are proxied to
-rpc_node = 'https://api.steemitdev.com'
+rpc_node = 'https://hived.privex.io'
 
 # logging output, can be repeated
 [[log]]

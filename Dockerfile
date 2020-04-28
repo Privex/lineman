@@ -1,6 +1,9 @@
 FROM node:12
 
 WORKDIR /app
+
+VOLUME /app/config
+
 COPY . .
 
 RUN yarn install --non-interactive --frozen-lockfile
