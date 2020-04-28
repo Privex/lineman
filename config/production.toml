@@ -1,6 +1,6 @@
 num_workers = 0
 port = 8080
-rpc_node = 'http://haproxy:8080'
+rpc_node = 'https://hived.privex.io'
 [[log]]
 level = 'info'
 out = 'stdout'
